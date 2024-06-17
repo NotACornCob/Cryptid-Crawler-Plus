@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+## Cryptid Crawler
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cryptid Crawler is an app project made for phase 2 of FlatIron's coding bootcamp. It's a single page React app developed using [Create React App](https://github.com/facebook/create-react-app).
+
+## Requirements
+
+[Create React App](https://github.com/facebook/create-react-app).
+[JSON]https://www.json.org/json-en.html
+
+## License 
+
+##[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Available Scripts
 
